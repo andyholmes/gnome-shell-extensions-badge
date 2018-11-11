@@ -1,5 +1,7 @@
 # gnome-shell-extensions-badge
 
+**NOTE:** Upstream request now @ https://gitlab.gnome.org/Teams/Engagement/marketing-design/issues/3 (give it a 👍)
+
 It seems unfair that the cool kids like Google Play, F-Droid and Firefox all have snazzy badges for their add-ons, so I decided to make one.
 
 I have asked and been given permission by GNOME licensing to create this badge. It is more directly inspired by F-Droid's badge, with the GNOME logo and fonts taken directly from extensions.gnome.org. Logo and fonts are important when using GNOME trademarks, so please don't distribute changes without obtaining permission from the GNOME Foundation (it's really easy and they're very nice).
